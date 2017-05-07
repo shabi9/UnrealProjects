@@ -5,3 +5,7 @@ EscapeTheRoom/Build/
 EscapeTheRoom/DerivedDataCache/
 EscapeTheRoom/Content/StarterContent/
 *.VC.db
+EscapeTheRoom/.vs/EscapeTheRoom/v15/Browse.VC.opendb
+EscapeTheRoom/.vs/EscapeTheRoom/v15/Solution.VC.db-wal
+EscapeTheRoom/.vs/EscapeTheRoom/v15/ipch/AutoPCH/ESCAPETHEROOM-5e4255a7/ESCAPETHEROOM-bc974a39/ESCAPETHEROOM.ipch
+EscapeTheRoom/.vs/EscapeTheRoom/v15/ipch/AutoPCH/ESCAPETHEROOM-5e4255a7/POSITIONREPORT-b749efdb/POSITIONREPORT.ipch
